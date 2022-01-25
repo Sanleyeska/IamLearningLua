@@ -1,0 +1,8 @@
+------------------ io.read Specifications ------------------
+|                                                          |
+|     "*all"      : read file                              |
+|     "number"    : reads a number                         |
+|     "*number"   : reads a string with number characters  |
+|     "*line"     : reads next line                        |
+|                                                          |   
+------------------------------------------------------------

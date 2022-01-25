@@ -1,0 +1,8 @@
+------------- INPUT/OUTPUT LIBRARY ------------- 
+|	                                       |
+|    io.inpunt(filename)     io.read(args)     |
+|    io.output(filename)     io.write(args)    |
+|    io.open(filename)                         |
+|    io.close(filename)                        |
+|                                              |      
+------------------------------------------------

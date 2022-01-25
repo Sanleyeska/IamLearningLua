@@ -1,0 +1,14 @@
+---------------------------- Table Library -----------------------------
+|                                                                      | 
+|   table.concat    : given a list where all elements are              |
+|                     strings or numbers.                              | 
+|   table.insert    : insert element value at position                 |
+|   table.move      : moves elements from the table a1 to table a2     |
+|   table.remove    : removes from list the element at position        |
+|   table.sort      : sorts the list elements in a giver order         |
+|   table.pack      : returns a new table with all arguments stored    |
+|                     into keys 1,2                                    |
+|   table.unpack    : returns the elements from the given list         |
+|   #               : returns size of the array                        |
+|                                                                      |
+------------------------------------------------------------------------

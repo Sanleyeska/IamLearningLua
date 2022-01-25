@@ -1,0 +1,15 @@
+------------------ io.open ------------------- 
+|                                            |
+|   r  : read mode                           |
+|   r+ : update mode, all previous data      |
+|        is preserved                        |
+|   w  : write mode                          |
+|   w+ : update mode, all previous data      |
+|        is erased.                          |
+|   b  : binary                              |
+|   a  : append mode                         |
+|   a+ : append update mode, previous data   |
+|        is preseverd, writing               |
+|        is only allowerd at the end of file |
+|                                            | 
+----------------------------------------------
